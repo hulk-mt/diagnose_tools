@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 import pip
 sys.argv = ['pip', 'install', 'fastapi', 'uvicorn', '--user']
